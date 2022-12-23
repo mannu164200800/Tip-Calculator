@@ -47,11 +47,7 @@ body {
 	font-size:24px;
 	font-weight:700;
 }
-.inputs:hover {
-	border:100px;
-	border-color:hsl(185, 41%, 84%);
-	cursor:pointer;
-}
+
 .inputs::placeholder {
 	text-align:right;
 	padding-right:20px;
