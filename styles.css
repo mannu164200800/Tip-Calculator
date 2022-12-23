@@ -41,12 +41,17 @@ body {
 .inputs {
 	 background-color:hsl(189, 41%, 97%);
 	 height:35px;
+         border:0;
 	 border-radius:5px;
 	 text-align:right;
 	color:hsl(183, 100%, 15%);
 	font-size:24px;
 	font-weight:700;
 }
+	.inputs:hover {
+	cursor:pointer;
+}
+
 
 .inputs::placeholder {
 	text-align:right;
