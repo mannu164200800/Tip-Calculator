@@ -37,18 +37,19 @@ body {
 	font-weight:700;
 	font-size:15px;
 	color:hsl(186, 14%, 43%);
-}
-.inputs {
+	}
+	
+	.inputs {
 	 background-color:hsl(189, 41%, 97%);
+	 border:0;
 	 height:35px;
-         border:0;
 	 border-radius:5px;
 	 text-align:right;
 	color:hsl(183, 100%, 15%);
 	font-size:24px;
 	font-weight:700;
 }
-	.inputs:hover {
+.inputs:hover {
 	cursor:pointer;
 }
 
